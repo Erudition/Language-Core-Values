@@ -51,7 +51,7 @@ values =
         , ( "Extensibility", [ "Rust", "C++", "Python" ] )
         , ( "Integrity", [ "Rust", "Scala" ] )
         , ( "Interoperability", [ "Rust", "C", "Scala", "Swift" ] )
-        , ( "Maintainability", [ "Python" ] ) -- Readability?
+        , ( "Maintainability", [ "Python", "Elm" ] ) -- Readability?
         , ( "Measurability", [] )
         , ( "Operability", [] )
         , ( "Performance", [ "Rust", "C", "C++", "K", "Elm", "Go", "Swift" ] )
@@ -59,7 +59,7 @@ values =
         , ( "Productivity", [ "C#", "Elm", "Go", "Ruby" ] )
         , ( "Resilience", [] )
         , ( "Rigor", [ "Rust" ] )
-        , ( "Robustness", [ "Rust", "C#", "Scala" ] )
+        , ( "Robustness", [ "Rust", "C#", "Scala", "Elm" ] )
         , ( "Safety", [ "Rust", "Go", "Elm" ] )
         , ( "Security", [ "Rust", "OpenBSD" ] )
         , ( "Simplicity", [ "C", "Awk", "Elm", "Go", "Python", "Ruby" ] )
